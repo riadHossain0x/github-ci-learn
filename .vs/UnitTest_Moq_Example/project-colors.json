@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e442014-51e0-49e3-962c-cc05acffe35a": {
+      "ProjectGuid": "0e442014-51e0-49e3-962c-cc05acffe35a",
+      "DisplayName": "UnitTest_Moq_Example",
+      "ColorIndex": 0
+    },
+    "45327c18-f0db-4cef-b3a1-c27c49a8ccc3": {
+      "ProjectGuid": "45327c18-f0db-4cef-b3a1-c27c49a8ccc3",
+      "DisplayName": "MoqExample.Test",
+      "ColorIndex": 1
+    },
+    "30380c72-a603-4cdc-b0e8-f9eb33d21a47": {
+      "ProjectGuid": "30380c72-a603-4cdc-b0e8-f9eb33d21a47",
+      "DisplayName": "MoqExamplePart-2.Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
