@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9aE/qfhL7jSXxJrJn1NmsCKae/zrVmrovEJt3E9GrGu52Njkf/JYQRqLq742ACaR4wWehrRc+S4vpGG7aWqvQ==",
+  "dgSpecHash": "COWUAcqgYL84aKsCrnWVXCeS453ACJFRjaadfv+6S8J8bUkaA6Y1PdKHQQEgSptF5vtSvVyEpBUzYhEZrnC3kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\MoqExample.Test.csproj",
+  "projectFilePath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\MoqExample.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riad\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Riad\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

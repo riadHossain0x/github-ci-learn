@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\MoqExample.Test.csproj": {}
+    "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\MoqExample.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\MoqExample.Test.csproj": {
+    "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\MoqExample.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\MoqExample.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\MoqExample.Test.csproj",
         "projectName": "MoqExample.Test",
-        "projectPath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\MoqExample.Test.csproj",
+        "projectPath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\MoqExample.Test.csproj",
         "packagesPath": "C:\\Users\\Riad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\MoqExample.Test\\obj\\",
+        "outputPath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\MoqExample.Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Riad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -28,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj": {
-                "projectPath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj"
+              "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj": {
+                "projectPath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj"
               }
             }
           }
@@ -88,15 +91,18 @@
         }
       }
     },
-    "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj": {
+    "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj",
+        "projectUniqueName": "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj",
         "projectName": "UnitTest_Moq_Example",
-        "projectPath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj",
+        "projectPath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\UnitTest_Moq_Example.csproj",
         "packagesPath": "C:\\Users\\Riad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riad\\Desktop\\UnitTest_Moq_Example\\UnitTest_Moq_Example\\obj\\",
+        "outputPath": "C:\\Users\\Riad\\Desktop\\Git-CICD\\UnitTest_Moq_Example\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Riad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
